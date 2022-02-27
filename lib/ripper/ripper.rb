@@ -33,6 +33,6 @@ start_time = Time.now.utc
 loop do
   Ripper.call
 
-  break if Time.now.utc > (start_time + 300)
+  # break if Time.now.utc > (start_time + 300)
 end
 
