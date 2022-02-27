@@ -21,6 +21,8 @@ And thank you very much for providing them.
 
 On local Env:
 
+Be sure to use VPN!!!
+
 ```shell
 git clone https://github.com/OffendedUkrainian/stop-russian-agression.git
 cd stop-russian-agression
